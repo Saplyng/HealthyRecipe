@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Healthy Recipe</string>
+    <string name="item_name">Bruschetta</string>
+    <string name="button_name">Recipe</string>
+</resources>
